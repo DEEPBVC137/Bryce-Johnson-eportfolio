@@ -10,7 +10,7 @@ The purpose of this ePortfolio is to demonstrate growth across key areas of comp
 
 The full ePortfolio can be viewed here:
 
-[GitHub Pages Link Here]
+https://deepbvc137.github.io/Bryce-Johnson-eportfolio/
 
 ## Portfolio Structure
 
