@@ -12,9 +12,10 @@ The full ePortfolio can be viewed here:
 
 [GitHub Pages Link Here]
 
-## Portfolio Contents
+## Portfolio Structure
 
-- Professional Self-Assessment  
+This ePortfolio is organized into the following sections:
+
 - Informal Code Review  
 - Software Design and Engineering Enhancement  
 - Algorithms and Data Structures Enhancement  
@@ -32,4 +33,4 @@ Each section includes original and enhanced artifacts along with a narrative exp
 
 ## Notes
 
-Large datasets used in the database project are not included due to size limitations. The dataset can be obtained from the Olist e-commerce dataset source if needed.
+Large datasets used in the database enhancement are not included due to size limitations. The dataset used is the Olist e-commerce dataset, which can be obtained from public sources if needed.
